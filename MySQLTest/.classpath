@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-ooxml-3.5-beta5.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/eclipse-workspace/MySQLTest/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/lalitha/Downloads/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
